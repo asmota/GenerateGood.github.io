@@ -1,0 +1,27 @@
+<style>
+  h1 {
+    font-family: 'Baloo Chettan', cursive;
+    font-size: 120px;
+    color: #aaaaa;
+    text-align: center;
+    margin: 60px 0 0 0;
+  }
+    body {
+      text-align: center;
+      background-color: #D3D3D3;
+      color: #2F4F4F;
+      font-family: 'Libre Baskerville', serif;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: black;
+      color: white;
+    }
+  </style>
