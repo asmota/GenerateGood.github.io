@@ -1,15 +1,9 @@
 <style>
-    img {
-      margin: 40px 0px 0px 0px;
-      border: 7px solid white;
-      border-radius: 20px;
-    }
     article {
       max-width: 500px;
       padding: 20px;
       margin: 0 auto;
-
-      }
+    }
     h1 {
       text-align: center;
       background: white;
@@ -49,19 +43,19 @@
       max-width: 500px;
     }
     button {
-    background-color: #008080;
-    border: none;
-    color: white;
-    padding: 15px 15px;
-    text-align: center;
-    font-family: 'Varela Round', sans-serif;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 20px;
-    margin: 2px 2px;
-    cursor: pointer;
-    border: 1px solid #a1a1a1;
-    border-radius: 5px;
+      background-color: #008080;
+      border: none;
+      color: white;
+      padding: 15px 15px;
+      text-align: center;
+      font-family: 'Varela Round', sans-serif;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 20px;
+      margin: 2px 2px;
+      cursor: pointer;
+      border: 1px solid #a1a1a1;
+      border-radius: 5px;
     }
     body {
       text-align: center;
@@ -97,5 +91,4 @@
       border: 1px solid #a1a1a1;
       border-radius: 5px;
     }
-
   </style>
