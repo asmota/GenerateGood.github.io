@@ -1,27 +1,101 @@
 <style>
-  h1 {
-    font-family: 'Baloo Chettan', cursive;
-    font-size: 120px;
-    color: #aaaaa;
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+
+      }
+    h1 {
+      text-align: center;
+      background: white;
+      background-size: cover;
+      color: #FF5733;
+      font-family: 'Cedarville Cursive', cursive;
+      font-size: 100px;
+      min-width: 300px;
+      margin: 30px 0 0 0;
+    }
+    h2 {
+      text-align: center;
+      background: white;
+      background-size: cover;
+      color: #555555;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 30px;
+      min-width: 300px;
+      margin: -20px 0 0 30px;
+    }
+    h3 {
+      text-align: center;
+      background: white;
+      background-size: cover;
+      color: #555555;
+      font-family: 'Varela Round', sans-serif;
+      font-size: 20px;
+      min-width: 300px;
+      margin: -20px 0 0 30px;
+    }
+    h4 {
+      text-align: center;
+      background-color: white;
+      color: #555555;
+      font-size: 15px;
+      font-family: 'Libre Baskerville', serif;
+      max-width: 500px;
+    }
+    button {
+    background-color: #008080;
+    border: none;
+    color: white;
+    padding: 15px 15px;
     text-align: center;
-    margin: 60px 0 0 0;
-  }
+    font-family: 'Varela Round', sans-serif;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2px 2px;
+    cursor: pointer;
+    border: 1px solid #a1a1a1;
+    border-radius: 5px;
+    }
     body {
       text-align: center;
-      background-color: #D3D3D3;
-      color: #2F4F4F;
+      background-color: white;
+      color: #008080;
+      font-size: 40px;
       font-family: 'Libre Baskerville', serif;
     }
-    p {
-      font-size: 22px;
-    }
     input {
-      border: 0;
+      border: 1px;
       padding: 10px;
       font-size: 18px;
     }
-    input[type="submit"] {
-      background: black;
-      color: white;
+    input[type="form"] {
+      background-color: white;
+      color: #333333;
+      font-family: 'Varela Round', sans-serif;
+      font-size: 15px;
+      border: 1px solid #a1a1a1;
     }
+    input[type="submit"] {
+      background-color: #008080;
+      border: none;
+      color: white;
+      padding: 5px 5px;
+      text-align: center;
+      font-family: 'Varela Round', sans-serif;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 15px;
+      margin: 2px 2px;
+      cursor: pointer;
+      border: 1px solid #a1a1a1;
+      border-radius: 5px;
+    }
+
   </style>
